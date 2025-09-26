@@ -1,3 +1,2 @@
 # Projects-
-University Robotics group projects - 2023/2025.
-Including both hardware and software. 
+University 1st and 2nd year Robotics group projects. Including both hardware, software and theoretical projects. Each project had to be solution for a given problem statement and a Sustainable Development Goal (SDG). We were provied a time constraint of approximately 12-13 weeks to complete these projects. In these projects each individual was given a diffferent task, by doing thise we are able to increase the rate of our projects so we are able to complete the assignment unter the time limit. I got to experience the role of a Scribe, a Researcher and a Constructor of robot for these projects. From completing these project I can confidently say I have gained many skills that I will be able to apply in the workplace.
